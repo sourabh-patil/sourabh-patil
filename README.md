@@ -18,5 +18,5 @@ I'm a developer passionate about building tools and solving real-world problems.
 ---
 
 ## 📫 Contact Me
-- Email: your.email@example.com
-- LinkedIn: [your-link](https://linkedin.com/in/yourname)
+- Email: sourabh.p.iitb@gmail.com
+- LinkedIn: [your-link]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/sourabh-patil-006b6a187/))
