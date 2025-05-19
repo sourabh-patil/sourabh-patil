@@ -56,7 +56,7 @@ I'm a **Senior Machine Learning Engineer** with expertise in building production
 
 ## 📚 Academic Highlights
 
-### 🎓 M.Tech Thesis: Video & MRI Super Resolution using Deformable Convolutions  
+### 🎓 M.Tech Thesis: Video & MRI Super Resolution using Deformable Convolutions (https://drive.google.com/file/d/1Nt4UEpxZZuUgH3P8XKORu_qsTLvsQNUf/view?usp=sharing)
 - Designed a deformable ConvLSTM-based network, surpassing methods like RDN/RCAN  
 - PSNR/SSIM: 39.16 dB / 0.96 (Vimeo-90K), 26.65 dB / 0.80 (Vid4)
 
