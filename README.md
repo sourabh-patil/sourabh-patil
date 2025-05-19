@@ -1,4 +1,4 @@
-# Hi there, I'm Sourabh Patil 👋 — just another natural neural net like you, trying to minimize loss in the real world by optimizing life one gradient descent at a time.
+# Hi there (I hope it's a human), just another natural neural net like you, trying to minimize the loss in the real world by optimizing life one gradient descent at a time.
 
 🎓 **Alma Mater**: Indian Institute of Technology, Bombay  
 📍 **Specialization**: Communication and Signal Processing  
