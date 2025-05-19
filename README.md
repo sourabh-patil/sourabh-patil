@@ -5,8 +5,8 @@ I'm a developer passionate about building tools and solving real-world problems.
 ---
 
 ## 📊 GitHub Stats
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Profile views](https://komarev.com/ghpvc/?username=sourabh-patil&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh-patil&show_icons=true)
 
 ---
 
