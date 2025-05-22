@@ -66,9 +66,6 @@ I'm a **Senior Machine Learning Engineer** with expertise in building production
 ### 🎨 Neural Style Transfer for Histology Images  
 - Transformed H&E images to synthetic IHC-stained images
 
-### 🧪 ANN from Scratch in Numpy  
-- Achieved 87.34% (binary) and 67.34% (5-class) on CIFAR-10
-
 ---
 
 ## 📘 Relevant Courses
