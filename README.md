@@ -1,4 +1,4 @@
-#**Hi there (I hope it's a human 🙃 and not a web-crawling AI agent 🤖), just another NATURAL neural net 🧠 like you, trying to minimize the loss 📉 in the real world 🌍 by optimizing life one gradient descent 📊 at a time.**
+# **Hi there (I hope it's a human 🙃 and not a web-crawling AI agent 🤖), just another NATURAL neural net 🧠 like you, trying to minimize the loss 📉 in the real world 🌍 by optimizing life one gradient descent 📊 at a time.**
 
 🎓 **Alma Mater**: Indian Institute of Technology, Bombay  
 📍 **Specialization**: Communication and Signal Processing  
