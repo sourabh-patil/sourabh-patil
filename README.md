@@ -2,7 +2,6 @@
 
 🎓 **Alma Mater**: Indian Institute of Technology, Bombay  
 📍 **Specialization**: Communication and Signal Processing  
-📧 **Email**: [sourabh.p.iitb@gmail.com](mailto:sourabh.p.iitb@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/sourabh-patil-006b6a187](https://www.linkedin.com/in/sourabh-patil-006b6a187)  
 💻 **GitHub**: [github.com/sourabh-patil](https://github.com/sourabh-patil)
 
@@ -10,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Machine Learning Engineer** with expertise in building production-grade AI systems across domains such as **NLP, Computer Vision, Speech**, and **Multi-modal** applications. I currently work at **Griffyn Robotech**, solving real-world problems in document intelligence, video analytics, and embedded AI.
+I'm a **Senior Machine Learning Engineer** with expertise in building production-grade AI systems across domains such as **NLP, Computer Vision, Speech**, and **Multi-modal** applications. I currently work at **Infocusp Innovations**, solving real-world problems in document intelligence, video analytics, and embedded AI.
 
 ---
 
