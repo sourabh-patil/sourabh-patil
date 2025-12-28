@@ -1,4 +1,6 @@
-### **Hey stalker! (I hope it's a human 🙃 and not a web-crawling bot 🤖), just another NATURAL NEURAL NET 🧠 like you, optimizing life one gradient descent 📊 at a time.**
+## 👨‍💻 About Me
+
+I'm a **Senior Machine Learning Engineer** with expertise in building production-grade AI systems across domains such as **NLP, Computer Vision, Speech**, and **Multi-Modal AI** applications. I currently work at **T-Systems**, solving real-world problems in document intelligence, video analytics, and embedded AI.
 
 🎓 **Alma Mater**: Indian Institute of Technology, Bombay  
 📍 **Specialization**: Communication and Signal Processing  
@@ -7,9 +9,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Senior Machine Learning Engineer** with expertise in building production-grade AI systems across domains such as **NLP, Computer Vision, Speech**, and **Multi-modal** applications. I currently work at **Infocusp Innovations**, solving real-world problems in document intelligence, video analytics, and embedded AI.
 
 ---
 
